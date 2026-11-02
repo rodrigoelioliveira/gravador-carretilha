@@ -13,6 +13,8 @@ Antes de cada download, o site pede ao servidor para liberar a geração. Se o l
 
 ## Recursos
 
+- **Duas cores (versão 2.0)**: letras e desenhos na mesma altura da peça, em outra cor. Entram no 3MF como modificadores com o filamento 2, e as cores escolhidas na paleta vão para os filamentos 1 e 2 do projeto. A opção "Gravada" continua disponível (corte de 0,75 mm, uma cor).
+
 - **Prévia 3D**: a aba "3D" mostra a carretilha com o fundo gravado; dá para girar e aproximar.
 - **Seu desenho**: o usuário envia uma imagem (PNG, JPG ou SVG) e ela é convertida em contorno para gravar nas laterais.
 - **Modelos prontos**: o administrador salva combinações de texto, fonte e desenho; todos os usuários podem aplicar com um clique.
