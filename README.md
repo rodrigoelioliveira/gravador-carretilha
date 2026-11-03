@@ -13,7 +13,10 @@ Antes de cada download, o site pede ao servidor para liberar a geração. Se o l
 
 ## Recursos
 
-- **Duas cores (versão 2.0)**: letras e desenhos na mesma altura da peça, em outra cor. A carretilha recebe o corte das letras e um objeto separado "Letras e desenhos" (filamento 2) preenche o corte; as cores escolhidas na paleta vão para os filamentos 1 e 2 do projeto. A opção "Gravada" continua disponível (corte de 0,75 mm, uma cor).
+- **Duas cores (versão 2.0)**: letras e desenhos na mesma altura da peça, em outra cor. O fundo da carretilha ganha o encaixe exato das letras e cada parte entra no mesmo objeto, com o seu filamento (sem sobreposição). A opção "Gravada" continua disponível (corte de 0,75 mm, uma cor).
+- **Cor por parte e contorno** (administrador): frase de cima, de baixo, desenhos e contorno com cores próprias, até 4 filamentos (AMS lite).
+- **Várias de uma vez**: lista de nomes gera um .zip com um 3MF por nome ou um 3MF com até 16 carretilhas na mesma mesa.
+- **Paleta calibrada** (administrador): as cores da paleta podem ser ajustadas tocando numa foto da peça impressa.
 
 - **Prévia 3D**: a aba "3D" mostra a carretilha com o fundo gravado; dá para girar e aproximar.
 - **Seu desenho**: o usuário envia uma imagem (PNG, JPG ou SVG) e ela é convertida em contorno para gravar nas laterais.
